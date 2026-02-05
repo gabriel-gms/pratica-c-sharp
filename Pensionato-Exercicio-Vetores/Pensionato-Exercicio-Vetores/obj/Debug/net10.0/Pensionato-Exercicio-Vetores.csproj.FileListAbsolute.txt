@@ -1,0 +1,15 @@
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Pensionato-Exercicio-Vetores\Pensionato-Exercicio-Vetores\bin\Debug\net10.0\Pensionato-Exercicio-Vetores.exe
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Pensionato-Exercicio-Vetores\Pensionato-Exercicio-Vetores\bin\Debug\net10.0\Pensionato-Exercicio-Vetores.deps.json
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Pensionato-Exercicio-Vetores\Pensionato-Exercicio-Vetores\bin\Debug\net10.0\Pensionato-Exercicio-Vetores.runtimeconfig.json
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Pensionato-Exercicio-Vetores\Pensionato-Exercicio-Vetores\bin\Debug\net10.0\Pensionato-Exercicio-Vetores.dll
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Pensionato-Exercicio-Vetores\Pensionato-Exercicio-Vetores\bin\Debug\net10.0\Pensionato-Exercicio-Vetores.pdb
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Pensionato-Exercicio-Vetores\Pensionato-Exercicio-Vetores\obj\Debug\net10.0\Pensionato-Exercicio-Vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Pensionato-Exercicio-Vetores\Pensionato-Exercicio-Vetores\obj\Debug\net10.0\Pensionato-Exercicio-Vetores.AssemblyInfoInputs.cache
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Pensionato-Exercicio-Vetores\Pensionato-Exercicio-Vetores\obj\Debug\net10.0\Pensionato-Exercicio-Vetores.AssemblyInfo.cs
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Pensionato-Exercicio-Vetores\Pensionato-Exercicio-Vetores\obj\Debug\net10.0\Pensionato-Exercicio-Vetores.csproj.CoreCompileInputs.cache
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Pensionato-Exercicio-Vetores\Pensionato-Exercicio-Vetores\obj\Debug\net10.0\Pensionato-Exercicio-Vetores.sourcelink.json
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Pensionato-Exercicio-Vetores\Pensionato-Exercicio-Vetores\obj\Debug\net10.0\Pensionato-Exercicio-Vetores.dll
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Pensionato-Exercicio-Vetores\Pensionato-Exercicio-Vetores\obj\Debug\net10.0\refint\Pensionato-Exercicio-Vetores.dll
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Pensionato-Exercicio-Vetores\Pensionato-Exercicio-Vetores\obj\Debug\net10.0\Pensionato-Exercicio-Vetores.pdb
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Pensionato-Exercicio-Vetores\Pensionato-Exercicio-Vetores\obj\Debug\net10.0\Pensionato-Exercicio-Vetores.genruntimeconfig.cache
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Pensionato-Exercicio-Vetores\Pensionato-Exercicio-Vetores\obj\Debug\net10.0\ref\Pensionato-Exercicio-Vetores.dll

@@ -21,4 +21,39 @@ for(int i = 0; i < linha; i++)
     }
 }
 
-Console.WriteLine(matriz);
+Console.WriteLine();
+for(int i =0; i < linha; i++)
+{
+    for(int j =0; j < coluna; j++)
+    {
+        Console.Write(matriz[i,j]+" ");
+    }
+    Console.WriteLine();
+}
+
+//DIAGONAL
+Console.WriteLine();
+Console.WriteLine("Diagonal:");
+
+for(int i =0; i < linha; i++)
+{
+    Console.Write(matriz[i,i]+" ");
+}
+
+//NUMEROS NEGATIVOS
+int qtNegativos = 0;
+Console.WriteLine();
+Console.WriteLine("Numeros negativos dentro da matriz:");
+
+for( int i =0; i < linha; i++)
+{
+    for(int j =0; j < coluna; j++)
+    {
+        if (matriz[i,j] < 0)
+        {
+            qtNegativos += 1;
+        }
+    }
+}
+
+Console.WriteLine(qtNegativos);

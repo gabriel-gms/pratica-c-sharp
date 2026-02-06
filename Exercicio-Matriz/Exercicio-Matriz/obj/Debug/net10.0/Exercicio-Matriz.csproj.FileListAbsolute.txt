@@ -1,0 +1,15 @@
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Exercicio-Matriz\Exercicio-Matriz\bin\Debug\net10.0\Exercicio-Matriz.exe
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Exercicio-Matriz\Exercicio-Matriz\bin\Debug\net10.0\Exercicio-Matriz.deps.json
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Exercicio-Matriz\Exercicio-Matriz\bin\Debug\net10.0\Exercicio-Matriz.runtimeconfig.json
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Exercicio-Matriz\Exercicio-Matriz\bin\Debug\net10.0\Exercicio-Matriz.dll
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Exercicio-Matriz\Exercicio-Matriz\bin\Debug\net10.0\Exercicio-Matriz.pdb
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Exercicio-Matriz\Exercicio-Matriz\obj\Debug\net10.0\Exercicio-Matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Exercicio-Matriz\Exercicio-Matriz\obj\Debug\net10.0\Exercicio-Matriz.AssemblyInfoInputs.cache
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Exercicio-Matriz\Exercicio-Matriz\obj\Debug\net10.0\Exercicio-Matriz.AssemblyInfo.cs
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Exercicio-Matriz\Exercicio-Matriz\obj\Debug\net10.0\Exercicio-Matriz.csproj.CoreCompileInputs.cache
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Exercicio-Matriz\Exercicio-Matriz\obj\Debug\net10.0\Exercicio-Matriz.sourcelink.json
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Exercicio-Matriz\Exercicio-Matriz\obj\Debug\net10.0\Exercicio-Matriz.dll
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Exercicio-Matriz\Exercicio-Matriz\obj\Debug\net10.0\refint\Exercicio-Matriz.dll
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Exercicio-Matriz\Exercicio-Matriz\obj\Debug\net10.0\Exercicio-Matriz.pdb
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Exercicio-Matriz\Exercicio-Matriz\obj\Debug\net10.0\Exercicio-Matriz.genruntimeconfig.cache
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Exercicio-Matriz\Exercicio-Matriz\obj\Debug\net10.0\ref\Exercicio-Matriz.dll

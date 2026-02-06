@@ -15,35 +15,50 @@ conforme exemplo.
 
 using Pensionato_Exercicio_Vetores;
 
-Console.WriteLine("1 - consultar");
-Console.WriteLine("2 - registrar");
-Console.Write("escolha uma opcao: ");
-int op = int.Parse(Console.ReadLine());
-
+int op = 0;
 int numeroEstudantesParaCadastrar = 0;
 int numeroDeQuartos = 10;
 Reserva[] reservas = new Reserva[numeroDeQuartos];
 
-switch (op)
+while (op != 3)
 {
-    case 1:
-        functionConsulta();
-        break;
-    case 2:
-        functionRegister();
-        break;
-    default:
-        Console.WriteLine("opcao inexistente");
-        break;
+    Console.WriteLine("-------------------------------------");
+    Console.WriteLine("1 - consultar");
+    Console.WriteLine("2 - registrar");
+    Console.WriteLine("3 - sair do sistema");
+    Console.Write("escolha uma opcao: ");
+    op = int.Parse(Console.ReadLine());
+    Console.WriteLine("-------------------------------------");
+
+    switch (op)
+    {
+        case 1:
+            functionConsulta();
+            break;
+        case 2:
+            functionRegister();
+            break;
+        case 3:
+            break;
+        default:
+            Console.WriteLine("opcao inexistente");
+            break;
+    }
 }
 
-int functionConsulta()
+void functionConsulta()
 {
     Console.WriteLine("Listagem dos registrados");
-    return 1;
+    for (int i = 0; i < numeroDeQuartos; i++)
+    {
+        if (reservas[i] != null)
+        {
+            Console.WriteLine(reservas[i].ToString());
+        }
+    }
 }
 
-Reserva[] functionRegister()
+void functionRegister()
 {
     Console.WriteLine("Preencha o formulario");
     Console.WriteLine();
@@ -54,10 +69,18 @@ Reserva[] functionRegister()
     {
         Console.WriteLine("Nome:");
         string nome = Console.ReadLine();
+        
         Console.WriteLine("Email:");
         string email = Console.ReadLine();
+        
         Console.WriteLine("Quarto:");
         int numeroQuarto = int.Parse(Console.ReadLine());
+        while (reservas[numeroQuarto] != null)
+        {
+            Console.WriteLine("Esse quarto ja esta reservado, escolha outro");
+            Console.WriteLine("Quarto:");
+            numeroQuarto = int.Parse(Console.ReadLine());
+        }
         Console.WriteLine();
 
         reservas[numeroQuarto] = new Reserva
@@ -76,6 +99,4 @@ Reserva[] functionRegister()
             Console.WriteLine(reservas[i].ToString());
         }
     }
-    
-    return reservas;
 }

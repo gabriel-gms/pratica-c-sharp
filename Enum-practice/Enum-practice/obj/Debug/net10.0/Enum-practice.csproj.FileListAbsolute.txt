@@ -1,0 +1,15 @@
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Enum-practice\Enum-practice\bin\Debug\net10.0\Enum-practice.exe
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Enum-practice\Enum-practice\bin\Debug\net10.0\Enum-practice.deps.json
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Enum-practice\Enum-practice\bin\Debug\net10.0\Enum-practice.runtimeconfig.json
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Enum-practice\Enum-practice\bin\Debug\net10.0\Enum-practice.dll
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Enum-practice\Enum-practice\bin\Debug\net10.0\Enum-practice.pdb
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Enum-practice\Enum-practice\obj\Debug\net10.0\Enum-practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Enum-practice\Enum-practice\obj\Debug\net10.0\Enum-practice.AssemblyInfoInputs.cache
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Enum-practice\Enum-practice\obj\Debug\net10.0\Enum-practice.AssemblyInfo.cs
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Enum-practice\Enum-practice\obj\Debug\net10.0\Enum-practice.csproj.CoreCompileInputs.cache
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Enum-practice\Enum-practice\obj\Debug\net10.0\Enum-practice.sourcelink.json
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Enum-practice\Enum-practice\obj\Debug\net10.0\Enum-practice.dll
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Enum-practice\Enum-practice\obj\Debug\net10.0\refint\Enum-practice.dll
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Enum-practice\Enum-practice\obj\Debug\net10.0\Enum-practice.pdb
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Enum-practice\Enum-practice\obj\Debug\net10.0\Enum-practice.genruntimeconfig.cache
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Enum-practice\Enum-practice\obj\Debug\net10.0\ref\Enum-practice.dll

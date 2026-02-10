@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\Composition-practice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9782E8DE-7012-4F98-97F8-C98CE6C33B52}|Composition-practice\\Composition-practice.csproj|c:\\users\\gggab\\desktop\\c# e .net\\udemy\\pratica-c-sharp\\composition-practice\\composition-practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9782E8DE-7012-4F98-97F8-C98CE6C33B52}|Composition-practice\\Composition-practice.csproj|solutionrelative:composition-practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E9B8C458-FCBD-4560-BFBC-E7649E2EAAFE}|Composition-practice\\Composition-practice.csproj|c:\\users\\gggab\\desktop\\c# e .net\\udemy\\pratica-c-sharp\\composition-practice\\composition-practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9B8C458-FCBD-4560-BFBC-E7649E2EAAFE}|Composition-practice\\Composition-practice.csproj|solutionrelative:composition-practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B8C458-FCBD-4560-BFBC-E7649E2EAAFE}|Composition-practice\\Composition-practice.csproj|c:\\users\\gggab\\desktop\\c# e .net\\udemy\\pratica-c-sharp\\composition-practice\\composition-practice\\entities\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9B8C458-FCBD-4560-BFBC-E7649E2EAAFE}|Composition-practice\\Composition-practice.csproj|solutionrelative:composition-practice\\entities\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B8C458-FCBD-4560-BFBC-E7649E2EAAFE}|Composition-practice\\Composition-practice.csproj|c:\\users\\gggab\\desktop\\c# e .net\\udemy\\pratica-c-sharp\\composition-practice\\composition-practice\\entities\\hourcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9B8C458-FCBD-4560-BFBC-E7649E2EAAFE}|Composition-practice\\Composition-practice.csproj|solutionrelative:composition-practice\\entities\\hourcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B8C458-FCBD-4560-BFBC-E7649E2EAAFE}|Composition-practice\\Composition-practice.csproj|c:\\users\\gggab\\desktop\\c# e .net\\udemy\\pratica-c-sharp\\composition-practice\\composition-practice\\entities\\departament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9B8C458-FCBD-4560-BFBC-E7649E2EAAFE}|Composition-practice\\Composition-practice.csproj|solutionrelative:composition-practice\\entities\\departament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B8C458-FCBD-4560-BFBC-E7649E2EAAFE}|Composition-practice\\Composition-practice.csproj|c:\\users\\gggab\\desktop\\c# e .net\\udemy\\pratica-c-sharp\\composition-practice\\composition-practice\\entities\\enums\\workerlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9B8C458-FCBD-4560-BFBC-E7649E2EAAFE}|Composition-practice\\Composition-practice.csproj|solutionrelative:composition-practice\\entities\\enums\\workerlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HourContract.cs",
+              "DocumentMoniker": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\Composition-practice\\Composition-practice\\Entities\\HourContract.cs",
+              "RelativeDocumentMoniker": "Composition-practice\\Entities\\HourContract.cs",
+              "ToolTip": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\Composition-practice\\Composition-practice\\Entities\\HourContract.cs",
+              "RelativeToolTip": "Composition-practice\\Entities\\HourContract.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T18:18:10.705Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\Composition-practice\\Composition-practice\\Program.cs",
               "RelativeDocumentMoniker": "Composition-practice\\Program.cs",
-              "ToolTip": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\Composition-practice\\Composition-practice\\Program.cs",
-              "RelativeToolTip": "Composition-practice\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\Composition-practice\\Composition-practice\\Program.cs*",
+              "RelativeToolTip": "Composition-practice\\Program.cs*",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAC0AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-09T15:03:47.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Departament.cs",
+              "DocumentMoniker": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\Composition-practice\\Composition-practice\\Entities\\Departament.cs",
+              "RelativeDocumentMoniker": "Composition-practice\\Entities\\Departament.cs",
+              "ToolTip": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\Composition-practice\\Composition-practice\\Entities\\Departament.cs",
+              "RelativeToolTip": "Composition-practice\\Entities\\Departament.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T18:18:26.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\Composition-practice\\Composition-practice\\Entities\\Worker.cs",
+              "RelativeDocumentMoniker": "Composition-practice\\Entities\\Worker.cs",
+              "ToolTip": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\Composition-practice\\Composition-practice\\Entities\\Worker.cs*",
+              "RelativeToolTip": "Composition-practice\\Entities\\Worker.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T18:14:01.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WorkerLevel.cs",
+              "DocumentMoniker": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\Composition-practice\\Composition-practice\\Entities\\Enums\\WorkerLevel.cs",
+              "RelativeDocumentMoniker": "Composition-practice\\Entities\\Enums\\WorkerLevel.cs",
+              "ToolTip": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\Composition-practice\\Composition-practice\\Entities\\Enums\\WorkerLevel.cs",
+              "RelativeToolTip": "Composition-practice\\Entities\\Enums\\WorkerLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T15:10:45.82Z",
               "EditorCaption": ""
             }
           ]

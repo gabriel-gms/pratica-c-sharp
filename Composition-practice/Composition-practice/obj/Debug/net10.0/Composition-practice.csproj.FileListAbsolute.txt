@@ -1,0 +1,15 @@
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Composition-practice\Composition-practice\bin\Debug\net10.0\Composition-practice.exe
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Composition-practice\Composition-practice\bin\Debug\net10.0\Composition-practice.deps.json
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Composition-practice\Composition-practice\bin\Debug\net10.0\Composition-practice.runtimeconfig.json
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Composition-practice\Composition-practice\bin\Debug\net10.0\Composition-practice.dll
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Composition-practice\Composition-practice\bin\Debug\net10.0\Composition-practice.pdb
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Composition-practice\Composition-practice\obj\Debug\net10.0\Composition-practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Composition-practice\Composition-practice\obj\Debug\net10.0\Composition-practice.AssemblyInfoInputs.cache
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Composition-practice\Composition-practice\obj\Debug\net10.0\Composition-practice.AssemblyInfo.cs
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Composition-practice\Composition-practice\obj\Debug\net10.0\Composition-practice.csproj.CoreCompileInputs.cache
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Composition-practice\Composition-practice\obj\Debug\net10.0\Composition-practice.sourcelink.json
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Composition-practice\Composition-practice\obj\Debug\net10.0\Composition-practice.dll
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Composition-practice\Composition-practice\obj\Debug\net10.0\refint\Composition-practice.dll
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Composition-practice\Composition-practice\obj\Debug\net10.0\Composition-practice.pdb
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Composition-practice\Composition-practice\obj\Debug\net10.0\Composition-practice.genruntimeconfig.cache
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Composition-practice\Composition-practice\obj\Debug\net10.0\ref\Composition-practice.dll

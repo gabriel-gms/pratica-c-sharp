@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Composition-practice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16be6fb2843a33788af408551e1d94a22e0063e5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a489872a6f13ff3f89b8344546f47707160f4c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Composition-practice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Composition-practice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -11,7 +11,8 @@ namespace Composition_practice.Entities
         public string Name { get; set; }
         public WorkerLevel Level { get; set; }
         public Double BaseSalary { get; set; }
-
+        public Departament Departament { get; set; }
+        public HourContract[] HourContracts { get; set; }
         public void AddContract(HourContract[] contract)
         {
             for (int i = 0; i < contract.Length; i++)
@@ -42,12 +43,20 @@ namespace Composition_practice.Entities
 
         public void RemoveContract(HourContract contract)
         {
-
+            
         }
 
         public Double Income (int year, int month)
         {
-            return 0;
+            double total = BaseSalary;
+            foreach(HourContract contract in HourContracts)
+            {
+                if(contract.Date.Month == month && contract.Date.Year == year)
+                {
+                    total += contract.TotalValue();
+                }
+            }            
+            return total;
         }
     }
 }

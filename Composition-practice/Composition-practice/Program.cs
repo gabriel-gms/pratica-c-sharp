@@ -28,14 +28,15 @@ Console.WriteLine();
 
 Console.Clear();
 
-Departament departament = new Departament() { Name = departamentWrite };
 Worker worker = new Worker()
 {
     Name = nameWrite,
     Level = Enum.Parse<WorkerLevel>(levelWrite.ToUpper()),
-    BaseSalary = salaryWrite
+    BaseSalary = salaryWrite,
+    Departament = new Departament { Name = departamentWrite }
 };
 HourContract[] hourContract = new HourContract[quantityContract];
+worker.HourContracts = hourContract;
 
 worker.AddContract(hourContract);
 
@@ -44,5 +45,11 @@ Console.Clear();
 Console.WriteLine("Insert the month and year to calculate income:");
 DateTime dataIncome = DateTime.Parse(Console.ReadLine());
 Console.WriteLine();
+Console.Clear();
+
+double income = worker.Income(dataIncome.Year, dataIncome.Month);
+Console.WriteLine("Worker: "+worker.Name);
+Console.WriteLine("Departament: "+worker.Departament.Name);
+Console.WriteLine("Income: "+income);
 
 

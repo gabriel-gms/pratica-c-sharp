@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "Composition-practice\\Entities\\HourContract.cs",
               "ToolTip": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\Composition-practice\\Composition-practice\\Entities\\HourContract.cs",
               "RelativeToolTip": "Composition-practice\\Entities\\HourContract.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA4AAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwA4AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-10T18:18:10.705Z",
               "EditorCaption": ""
@@ -51,9 +51,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\Composition-practice\\Composition-practice\\Program.cs",
               "RelativeDocumentMoniker": "Composition-practice\\Program.cs",
-              "ToolTip": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\Composition-practice\\Composition-practice\\Program.cs*",
-              "RelativeToolTip": "Composition-practice\\Program.cs*",
-              "ViewState": "AgIAACIAAAAAAAAAAAAAAC0AAAAUAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\Composition-practice\\Composition-practice\\Program.cs",
+              "RelativeToolTip": "Composition-practice\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAawBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-09T15:03:47.359Z",
               "EditorCaption": ""
@@ -68,8 +68,7 @@
               "RelativeToolTip": "Composition-practice\\Entities\\Departament.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T18:18:26.187Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-10T18:18:26.187Z"
             },
             {
               "$type": "Document",
@@ -77,9 +76,9 @@
               "Title": "Worker.cs",
               "DocumentMoniker": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\Composition-practice\\Composition-practice\\Entities\\Worker.cs",
               "RelativeDocumentMoniker": "Composition-practice\\Entities\\Worker.cs",
-              "ToolTip": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\Composition-practice\\Composition-practice\\Entities\\Worker.cs*",
-              "RelativeToolTip": "Composition-practice\\Entities\\Worker.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAASAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\Composition-practice\\Composition-practice\\Entities\\Worker.cs",
+              "RelativeToolTip": "Composition-practice\\Entities\\Worker.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADkAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-10T18:14:01.733Z",
               "EditorCaption": ""
@@ -94,8 +93,7 @@
               "RelativeToolTip": "Composition-practice\\Entities\\Enums\\WorkerLevel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T15:10:45.82Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-09T15:10:45.82Z"
             }
           ]
         }

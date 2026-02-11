@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\OrderToClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E31958F-271B-4E8D-986A-4164F16E19A8}|OrderToClient\\OrderToClient.csproj|c:\\users\\gggab\\desktop\\c# e .net\\udemy\\pratica-c-sharp\\ordertoclient\\ordertoclient\\entities\\enums\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E31958F-271B-4E8D-986A-4164F16E19A8}|OrderToClient\\OrderToClient.csproj|solutionrelative:ordertoclient\\entities\\enums\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E31958F-271B-4E8D-986A-4164F16E19A8}|OrderToClient\\OrderToClient.csproj|c:\\users\\gggab\\desktop\\c# e .net\\udemy\\pratica-c-sharp\\ordertoclient\\ordertoclient\\entities\\enums\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E31958F-271B-4E8D-986A-4164F16E19A8}|OrderToClient\\OrderToClient.csproj|solutionrelative:ordertoclient\\entities\\enums\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E31958F-271B-4E8D-986A-4164F16E19A8}|OrderToClient\\OrderToClient.csproj|c:\\users\\gggab\\desktop\\c# e .net\\udemy\\pratica-c-sharp\\ordertoclient\\ordertoclient\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E31958F-271B-4E8D-986A-4164F16E19A8}|OrderToClient\\OrderToClient.csproj|solutionrelative:ordertoclient\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E31958F-271B-4E8D-986A-4164F16E19A8}|OrderToClient\\OrderToClient.csproj|c:\\users\\gggab\\desktop\\c# e .net\\udemy\\pratica-c-sharp\\ordertoclient\\ordertoclient\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E31958F-271B-4E8D-986A-4164F16E19A8}|OrderToClient\\OrderToClient.csproj|solutionrelative:ordertoclient\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E31958F-271B-4E8D-986A-4164F16E19A8}|OrderToClient\\OrderToClient.csproj|c:\\users\\gggab\\desktop\\c# e .net\\udemy\\pratica-c-sharp\\ordertoclient\\ordertoclient\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E31958F-271B-4E8D-986A-4164F16E19A8}|OrderToClient\\OrderToClient.csproj|solutionrelative:ordertoclient\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E31958F-271B-4E8D-986A-4164F16E19A8}|OrderToClient\\OrderToClient.csproj|c:\\users\\gggab\\desktop\\c# e .net\\udemy\\pratica-c-sharp\\ordertoclient\\ordertoclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E31958F-271B-4E8D-986A-4164F16E19A8}|OrderToClient\\OrderToClient.csproj|solutionrelative:ordertoclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\OrderToClient\\OrderToClient\\Entities\\Enums\\OrderItem.cs",
+              "RelativeDocumentMoniker": "OrderToClient\\Entities\\Enums\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\OrderToClient\\OrderToClient\\Entities\\Enums\\OrderItem.cs",
+              "RelativeToolTip": "OrderToClient\\Entities\\Enums\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T23:01:34.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\OrderToClient\\OrderToClient\\Entities\\Enums\\Product.cs",
+              "RelativeDocumentMoniker": "OrderToClient\\Entities\\Enums\\Product.cs",
+              "ToolTip": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\OrderToClient\\OrderToClient\\Entities\\Enums\\Product.cs",
+              "RelativeToolTip": "OrderToClient\\Entities\\Enums\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T23:00:54.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\OrderToClient\\OrderToClient\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "OrderToClient\\Entities\\Client.cs",
+              "ToolTip": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\OrderToClient\\OrderToClient\\Entities\\Client.cs",
+              "RelativeToolTip": "OrderToClient\\Entities\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T22:59:21.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\OrderToClient\\OrderToClient\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "OrderToClient\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\OrderToClient\\OrderToClient\\Entities\\Order.cs",
+              "RelativeToolTip": "OrderToClient\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T22:58:58.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\OrderToClient\\OrderToClient\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "OrderToClient\\Entities\\Enums\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\OrderToClient\\OrderToClient\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "OrderToClient\\Entities\\Enums\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T22:54:47.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\OrderToClient\\OrderToClient\\Program.cs",
+              "RelativeDocumentMoniker": "OrderToClient\\Program.cs",
+              "ToolTip": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\OrderToClient\\OrderToClient\\Program.cs",
+              "RelativeToolTip": "OrderToClient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T22:53:45.429Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

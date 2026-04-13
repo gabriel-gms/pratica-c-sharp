@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pensionato-Exercicio-Vetores")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aaa9592954c2bdcf9cf5d8ec40afd5c6cad7d2ad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26529f14081ebdc18cae227066557613bab06c86")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pensionato-Exercicio-Vetores")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pensionato-Exercicio-Vetores")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

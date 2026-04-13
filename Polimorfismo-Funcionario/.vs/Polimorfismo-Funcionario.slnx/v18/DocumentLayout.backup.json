@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\Polimorfismo-Funcionario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C36ADB24-D3BB-4FFB-94A2-0FFDC163A04A}|Polimorfismo-Funcionario\\Polimorfismo-Funcionario.csproj|c:\\users\\gggab\\desktop\\c# e .net\\udemy\\pratica-c-sharp\\polimorfismo-funcionario\\polimorfismo-funcionario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C36ADB24-D3BB-4FFB-94A2-0FFDC163A04A}|Polimorfismo-Funcionario\\Polimorfismo-Funcionario.csproj|solutionrelative:polimorfismo-funcionario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C36ADB24-D3BB-4FFB-94A2-0FFDC163A04A}|Polimorfismo-Funcionario\\Polimorfismo-Funcionario.csproj|c:\\users\\gggab\\desktop\\c# e .net\\udemy\\pratica-c-sharp\\polimorfismo-funcionario\\polimorfismo-funcionario\\outsourceemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C36ADB24-D3BB-4FFB-94A2-0FFDC163A04A}|Polimorfismo-Funcionario\\Polimorfismo-Funcionario.csproj|solutionrelative:polimorfismo-funcionario\\outsourceemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C36ADB24-D3BB-4FFB-94A2-0FFDC163A04A}|Polimorfismo-Funcionario\\Polimorfismo-Funcionario.csproj|c:\\users\\gggab\\desktop\\c# e .net\\udemy\\pratica-c-sharp\\polimorfismo-funcionario\\polimorfismo-funcionario\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C36ADB24-D3BB-4FFB-94A2-0FFDC163A04A}|Polimorfismo-Funcionario\\Polimorfismo-Funcionario.csproj|solutionrelative:polimorfismo-funcionario\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OutsourceEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\Polimorfismo-Funcionario\\Polimorfismo-Funcionario\\OutsourceEmployee.cs",
+              "RelativeDocumentMoniker": "Polimorfismo-Funcionario\\OutsourceEmployee.cs",
+              "ToolTip": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\Polimorfismo-Funcionario\\Polimorfismo-Funcionario\\OutsourceEmployee.cs",
+              "RelativeToolTip": "Polimorfismo-Funcionario\\OutsourceEmployee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T14:12:27.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\Polimorfismo-Funcionario\\Polimorfismo-Funcionario\\Employee.cs",
+              "RelativeDocumentMoniker": "Polimorfismo-Funcionario\\Employee.cs",
+              "ToolTip": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\Polimorfismo-Funcionario\\Polimorfismo-Funcionario\\Employee.cs",
+              "RelativeToolTip": "Polimorfismo-Funcionario\\Employee.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T14:12:03.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\Polimorfismo-Funcionario\\Polimorfismo-Funcionario\\Program.cs",
+              "RelativeDocumentMoniker": "Polimorfismo-Funcionario\\Program.cs",
+              "ToolTip": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\Polimorfismo-Funcionario\\Polimorfismo-Funcionario\\Program.cs",
+              "RelativeToolTip": "Polimorfismo-Funcionario\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T14:10:27.022Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

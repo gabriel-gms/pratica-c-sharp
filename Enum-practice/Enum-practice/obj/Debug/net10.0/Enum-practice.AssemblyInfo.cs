@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Enum-practice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+975d2e5c40cabc198c0c57b85bc06230e0d9e850")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26529f14081ebdc18cae227066557613bab06c86")]
 [assembly: System.Reflection.AssemblyProductAttribute("Enum-practice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Enum-practice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Polimorfismo-Funcionario\Polimorfismo-Funcionario\bin\Debug\net10.0\Polimorfismo-Funcionario.exe
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Polimorfismo-Funcionario\Polimorfismo-Funcionario\bin\Debug\net10.0\Polimorfismo-Funcionario.deps.json
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Polimorfismo-Funcionario\Polimorfismo-Funcionario\bin\Debug\net10.0\Polimorfismo-Funcionario.runtimeconfig.json
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Polimorfismo-Funcionario\Polimorfismo-Funcionario\bin\Debug\net10.0\Polimorfismo-Funcionario.dll
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Polimorfismo-Funcionario\Polimorfismo-Funcionario\bin\Debug\net10.0\Polimorfismo-Funcionario.pdb
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Polimorfismo-Funcionario\Polimorfismo-Funcionario\obj\Debug\net10.0\Polimorfismo-Funcionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Polimorfismo-Funcionario\Polimorfismo-Funcionario\obj\Debug\net10.0\Polimorfismo-Funcionario.AssemblyInfoInputs.cache
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Polimorfismo-Funcionario\Polimorfismo-Funcionario\obj\Debug\net10.0\Polimorfismo-Funcionario.AssemblyInfo.cs
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Polimorfismo-Funcionario\Polimorfismo-Funcionario\obj\Debug\net10.0\Polimorfismo-Funcionario.csproj.CoreCompileInputs.cache
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Polimorfismo-Funcionario\Polimorfismo-Funcionario\obj\Debug\net10.0\Polimorfismo-Funcionario.sourcelink.json
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Polimorfismo-Funcionario\Polimorfismo-Funcionario\obj\Debug\net10.0\Polimorfismo-Funcionario.dll
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Polimorfismo-Funcionario\Polimorfismo-Funcionario\obj\Debug\net10.0\refint\Polimorfismo-Funcionario.dll
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Polimorfismo-Funcionario\Polimorfismo-Funcionario\obj\Debug\net10.0\Polimorfismo-Funcionario.pdb
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Polimorfismo-Funcionario\Polimorfismo-Funcionario\obj\Debug\net10.0\Polimorfismo-Funcionario.genruntimeconfig.cache
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\Polimorfismo-Funcionario\Polimorfismo-Funcionario\obj\Debug\net10.0\ref\Polimorfismo-Funcionario.dll

@@ -1,0 +1,15 @@
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\metodos-abstratos\metodos-abstratos\obj\Debug\net10.0\metodos-abstratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\metodos-abstratos\metodos-abstratos\obj\Debug\net10.0\metodos-abstratos.AssemblyInfoInputs.cache
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\metodos-abstratos\metodos-abstratos\obj\Debug\net10.0\metodos-abstratos.AssemblyInfo.cs
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\metodos-abstratos\metodos-abstratos\obj\Debug\net10.0\metodos-abstratos.csproj.CoreCompileInputs.cache
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\metodos-abstratos\metodos-abstratos\obj\Debug\net10.0\metodos-abstratos.sourcelink.json
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\metodos-abstratos\metodos-abstratos\bin\Debug\net10.0\metodos-abstratos.exe
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\metodos-abstratos\metodos-abstratos\bin\Debug\net10.0\metodos-abstratos.deps.json
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\metodos-abstratos\metodos-abstratos\bin\Debug\net10.0\metodos-abstratos.runtimeconfig.json
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\metodos-abstratos\metodos-abstratos\bin\Debug\net10.0\metodos-abstratos.dll
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\metodos-abstratos\metodos-abstratos\bin\Debug\net10.0\metodos-abstratos.pdb
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\metodos-abstratos\metodos-abstratos\obj\Debug\net10.0\metodos-abstratos.dll
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\metodos-abstratos\metodos-abstratos\obj\Debug\net10.0\refint\metodos-abstratos.dll
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\metodos-abstratos\metodos-abstratos\obj\Debug\net10.0\metodos-abstratos.pdb
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\metodos-abstratos\metodos-abstratos\obj\Debug\net10.0\metodos-abstratos.genruntimeconfig.cache
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\metodos-abstratos\metodos-abstratos\obj\Debug\net10.0\ref\metodos-abstratos.dll

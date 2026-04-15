@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\metodos-abstratos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{678D9D5D-9314-43D3-A8C8-8CCA3B67BDB1}|metodos-abstratos\\metodos-abstratos.csproj|c:\\users\\gggab\\desktop\\c# e .net\\udemy\\pratica-c-sharp\\metodos-abstratos\\metodos-abstratos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{678D9D5D-9314-43D3-A8C8-8CCA3B67BDB1}|metodos-abstratos\\metodos-abstratos.csproj|solutionrelative:metodos-abstratos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{678D9D5D-9314-43D3-A8C8-8CCA3B67BDB1}|metodos-abstratos\\metodos-abstratos.csproj|c:\\users\\gggab\\desktop\\c# e .net\\udemy\\pratica-c-sharp\\metodos-abstratos\\metodos-abstratos\\entities\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{678D9D5D-9314-43D3-A8C8-8CCA3B67BDB1}|metodos-abstratos\\metodos-abstratos.csproj|solutionrelative:metodos-abstratos\\entities\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{678D9D5D-9314-43D3-A8C8-8CCA3B67BDB1}|metodos-abstratos\\metodos-abstratos.csproj|c:\\users\\gggab\\desktop\\c# e .net\\udemy\\pratica-c-sharp\\metodos-abstratos\\metodos-abstratos\\entities\\rectangule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{678D9D5D-9314-43D3-A8C8-8CCA3B67BDB1}|metodos-abstratos\\metodos-abstratos.csproj|solutionrelative:metodos-abstratos\\entities\\rectangule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{678D9D5D-9314-43D3-A8C8-8CCA3B67BDB1}|metodos-abstratos\\metodos-abstratos.csproj|c:\\users\\gggab\\desktop\\c# e .net\\udemy\\pratica-c-sharp\\metodos-abstratos\\metodos-abstratos\\entities\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{678D9D5D-9314-43D3-A8C8-8CCA3B67BDB1}|metodos-abstratos\\metodos-abstratos.csproj|solutionrelative:metodos-abstratos\\entities\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{678D9D5D-9314-43D3-A8C8-8CCA3B67BDB1}|metodos-abstratos\\metodos-abstratos.csproj|c:\\users\\gggab\\desktop\\c# e .net\\udemy\\pratica-c-sharp\\metodos-abstratos\\metodos-abstratos\\entities\\enums\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{678D9D5D-9314-43D3-A8C8-8CCA3B67BDB1}|metodos-abstratos\\metodos-abstratos.csproj|solutionrelative:metodos-abstratos\\entities\\enums\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\metodos-abstratos\\metodos-abstratos\\Entities\\Circle.cs",
+              "RelativeDocumentMoniker": "metodos-abstratos\\Entities\\Circle.cs",
+              "ToolTip": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\metodos-abstratos\\metodos-abstratos\\Entities\\Circle.cs",
+              "RelativeToolTip": "metodos-abstratos\\Entities\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T17:27:05.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rectangule.cs",
+              "DocumentMoniker": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\metodos-abstratos\\metodos-abstratos\\Entities\\Rectangule.cs",
+              "RelativeDocumentMoniker": "metodos-abstratos\\Entities\\Rectangule.cs",
+              "ToolTip": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\metodos-abstratos\\metodos-abstratos\\Entities\\Rectangule.cs",
+              "RelativeToolTip": "metodos-abstratos\\Entities\\Rectangule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T17:26:56.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\metodos-abstratos\\metodos-abstratos\\Entities\\Shape.cs",
+              "RelativeDocumentMoniker": "metodos-abstratos\\Entities\\Shape.cs",
+              "ToolTip": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\metodos-abstratos\\metodos-abstratos\\Entities\\Shape.cs",
+              "RelativeToolTip": "metodos-abstratos\\Entities\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIAwwA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T17:26:47.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Color.cs",
+              "DocumentMoniker": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\metodos-abstratos\\metodos-abstratos\\Entities\\Enums\\Color.cs",
+              "RelativeDocumentMoniker": "metodos-abstratos\\Entities\\Enums\\Color.cs",
+              "ToolTip": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\metodos-abstratos\\metodos-abstratos\\Entities\\Enums\\Color.cs",
+              "RelativeToolTip": "metodos-abstratos\\Entities\\Enums\\Color.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T17:26:30.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\metodos-abstratos\\metodos-abstratos\\Program.cs",
+              "RelativeDocumentMoniker": "metodos-abstratos\\Program.cs",
+              "ToolTip": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\metodos-abstratos\\metodos-abstratos\\Program.cs*",
+              "RelativeToolTip": "metodos-abstratos\\Program.cs*",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T16:38:31.197Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

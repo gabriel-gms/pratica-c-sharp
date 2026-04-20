@@ -1,0 +1,15 @@
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\interfaces-and-services\interfaces-and-services\bin\Debug\net10.0\interfaces-and-services.exe
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\interfaces-and-services\interfaces-and-services\bin\Debug\net10.0\interfaces-and-services.deps.json
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\interfaces-and-services\interfaces-and-services\bin\Debug\net10.0\interfaces-and-services.runtimeconfig.json
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\interfaces-and-services\interfaces-and-services\bin\Debug\net10.0\interfaces-and-services.dll
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\interfaces-and-services\interfaces-and-services\bin\Debug\net10.0\interfaces-and-services.pdb
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\interfaces-and-services\interfaces-and-services\obj\Debug\net10.0\interfaces-and-services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\interfaces-and-services\interfaces-and-services\obj\Debug\net10.0\interfaces-and-services.AssemblyInfoInputs.cache
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\interfaces-and-services\interfaces-and-services\obj\Debug\net10.0\interfaces-and-services.AssemblyInfo.cs
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\interfaces-and-services\interfaces-and-services\obj\Debug\net10.0\interfaces-and-services.csproj.CoreCompileInputs.cache
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\interfaces-and-services\interfaces-and-services\obj\Debug\net10.0\interfaces-and-services.sourcelink.json
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\interfaces-and-services\interfaces-and-services\obj\Debug\net10.0\interfaces-and-services.dll
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\interfaces-and-services\interfaces-and-services\obj\Debug\net10.0\refint\interfaces-and-services.dll
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\interfaces-and-services\interfaces-and-services\obj\Debug\net10.0\interfaces-and-services.pdb
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\interfaces-and-services\interfaces-and-services\obj\Debug\net10.0\interfaces-and-services.genruntimeconfig.cache
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\interfaces-and-services\interfaces-and-services\obj\Debug\net10.0\ref\interfaces-and-services.dll

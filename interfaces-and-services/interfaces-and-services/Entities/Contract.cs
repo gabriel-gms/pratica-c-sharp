@@ -10,13 +10,14 @@ namespace interfaces_and_services.Entities
         public DateTime Date { get; set; }
         public Double TotalValue { get; set; }
 
-        public Installment[] Installment { get; set; }
+        public List<Installment> Installment { get; set; }
 
         public Contract(int number, DateTime date, double totalValue)
         {
             Number = number;
             Date = date;
             TotalValue = totalValue;
+            Installment = new List<Installment>();
         }
     }
 }

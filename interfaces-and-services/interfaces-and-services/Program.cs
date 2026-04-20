@@ -26,7 +26,12 @@ double totalValue = double.Parse(Console.ReadLine());
 Console.Write("Number of installments: ");
 int months = int.Parse(Console.ReadLine());
 Contract contract = new Contract(number, date, totalValue);
-ContractService contractService = new ContractService();
+ContractService contractService = new ContractService(new PayPalService());
+contractService.ProcessContract(contract, months);
 Console.WriteLine();
 
 Console.WriteLine("----Installments----");
+foreach(Installment installment in contract.Installment)
+{
+    Console.WriteLine(installment);
+}

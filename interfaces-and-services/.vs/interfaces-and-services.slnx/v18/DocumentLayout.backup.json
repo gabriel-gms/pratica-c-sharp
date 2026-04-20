@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\interfaces-and-services\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E2C477D-0585-498C-97FA-EE8C504B8D5B}|interfaces-and-services\\interfaces-and-services.csproj|c:\\users\\gggab\\desktop\\c# e .net\\udemy\\pratica-c-sharp\\interfaces-and-services\\interfaces-and-services\\services\\contractservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E2C477D-0585-498C-97FA-EE8C504B8D5B}|interfaces-and-services\\interfaces-and-services.csproj|solutionrelative:interfaces-and-services\\services\\contractservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24C4DF38-4231-F112-AA0C-783402FA8F58}|interfaces-and-services\\interfaces-and-services.csproj|c:\\users\\gggab\\desktop\\c# e .net\\udemy\\pratica-c-sharp\\interfaces-and-services\\interfaces-and-services\\services\\paypalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24C4DF38-4231-F112-AA0C-783402FA8F58}|interfaces-and-services\\interfaces-and-services.csproj|solutionrelative:interfaces-and-services\\services\\paypalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E2C477D-0585-498C-97FA-EE8C504B8D5B}|interfaces-and-services\\interfaces-and-services.csproj|c:\\users\\gggab\\desktop\\c# e .net\\udemy\\pratica-c-sharp\\interfaces-and-services\\interfaces-and-services\\services\\ionlinepaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E2C477D-0585-498C-97FA-EE8C504B8D5B}|interfaces-and-services\\interfaces-and-services.csproj|solutionrelative:interfaces-and-services\\services\\ionlinepaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24C4DF38-4231-F112-AA0C-783402FA8F58}|interfaces-and-services\\interfaces-and-services.csproj|c:\\users\\gggab\\desktop\\c# e .net\\udemy\\pratica-c-sharp\\interfaces-and-services\\interfaces-and-services\\services\\ionlinepaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24C4DF38-4231-F112-AA0C-783402FA8F58}|interfaces-and-services\\interfaces-and-services.csproj|solutionrelative:interfaces-and-services\\services\\ionlinepaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E2C477D-0585-498C-97FA-EE8C504B8D5B}|interfaces-and-services\\interfaces-and-services.csproj|c:\\users\\gggab\\desktop\\c# e .net\\udemy\\pratica-c-sharp\\interfaces-and-services\\interfaces-and-services\\services\\paypalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E2C477D-0585-498C-97FA-EE8C504B8D5B}|interfaces-and-services\\interfaces-and-services.csproj|solutionrelative:interfaces-and-services\\services\\paypalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24C4DF38-4231-F112-AA0C-783402FA8F58}|interfaces-and-services\\interfaces-and-services.csproj|c:\\users\\gggab\\desktop\\c# e .net\\udemy\\pratica-c-sharp\\interfaces-and-services\\interfaces-and-services\\services\\contractservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24C4DF38-4231-F112-AA0C-783402FA8F58}|interfaces-and-services\\interfaces-and-services.csproj|solutionrelative:interfaces-and-services\\services\\contractservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E2C477D-0585-498C-97FA-EE8C504B8D5B}|interfaces-and-services\\interfaces-and-services.csproj|c:\\users\\gggab\\desktop\\c# e .net\\udemy\\pratica-c-sharp\\interfaces-and-services\\interfaces-and-services\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E2C477D-0585-498C-97FA-EE8C504B8D5B}|interfaces-and-services\\interfaces-and-services.csproj|solutionrelative:interfaces-and-services\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24C4DF38-4231-F112-AA0C-783402FA8F58}|interfaces-and-services\\interfaces-and-services.csproj|c:\\users\\gggab\\desktop\\c# e .net\\udemy\\pratica-c-sharp\\interfaces-and-services\\interfaces-and-services\\entities\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24C4DF38-4231-F112-AA0C-783402FA8F58}|interfaces-and-services\\interfaces-and-services.csproj|solutionrelative:interfaces-and-services\\entities\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E2C477D-0585-498C-97FA-EE8C504B8D5B}|interfaces-and-services\\interfaces-and-services.csproj|c:\\users\\gggab\\desktop\\c# e .net\\udemy\\pratica-c-sharp\\interfaces-and-services\\interfaces-and-services\\entities\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E2C477D-0585-498C-97FA-EE8C504B8D5B}|interfaces-and-services\\interfaces-and-services.csproj|solutionrelative:interfaces-and-services\\entities\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24C4DF38-4231-F112-AA0C-783402FA8F58}|interfaces-and-services\\interfaces-and-services.csproj|c:\\users\\gggab\\desktop\\c# e .net\\udemy\\pratica-c-sharp\\interfaces-and-services\\interfaces-and-services\\entities\\installment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24C4DF38-4231-F112-AA0C-783402FA8F58}|interfaces-and-services\\interfaces-and-services.csproj|solutionrelative:interfaces-and-services\\entities\\installment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E2C477D-0585-498C-97FA-EE8C504B8D5B}|interfaces-and-services\\interfaces-and-services.csproj|c:\\users\\gggab\\desktop\\c# e .net\\udemy\\pratica-c-sharp\\interfaces-and-services\\interfaces-and-services\\entities\\installment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E2C477D-0585-498C-97FA-EE8C504B8D5B}|interfaces-and-services\\interfaces-and-services.csproj|solutionrelative:interfaces-and-services\\entities\\installment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24C4DF38-4231-F112-AA0C-783402FA8F58}|interfaces-and-services\\interfaces-and-services.csproj|c:\\users\\gggab\\desktop\\c# e .net\\udemy\\pratica-c-sharp\\interfaces-and-services\\interfaces-and-services\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24C4DF38-4231-F112-AA0C-783402FA8F58}|interfaces-and-services\\interfaces-and-services.csproj|solutionrelative:interfaces-and-services\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E2C477D-0585-498C-97FA-EE8C504B8D5B}|interfaces-and-services\\interfaces-and-services.csproj|c:\\users\\gggab\\desktop\\c# e .net\\udemy\\pratica-c-sharp\\interfaces-and-services\\interfaces-and-services\\interfaces-and-services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4E2C477D-0585-498C-97FA-EE8C504B8D5B}|interfaces-and-services\\interfaces-and-services.csproj|solutionrelative:interfaces-and-services\\interfaces-and-services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{24C4DF38-4231-F112-AA0C-783402FA8F58}|interfaces-and-services\\interfaces-and-services.csproj|c:\\users\\gggab\\desktop\\c# e .net\\udemy\\pratica-c-sharp\\interfaces-and-services\\interfaces-and-services\\interfaces-and-services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{24C4DF38-4231-F112-AA0C-783402FA8F58}|interfaces-and-services\\interfaces-and-services.csproj|solutionrelative:interfaces-and-services\\interfaces-and-services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -55,65 +55,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "PayPalService.cs",
               "DocumentMoniker": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\interfaces-and-services\\interfaces-and-services\\Services\\PayPalService.cs",
               "RelativeDocumentMoniker": "interfaces-and-services\\Services\\PayPalService.cs",
               "ToolTip": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\interfaces-and-services\\interfaces-and-services\\Services\\PayPalService.cs",
               "RelativeToolTip": "interfaces-and-services\\Services\\PayPalService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-16T14:42:32.324Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ContractService.cs",
               "DocumentMoniker": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\interfaces-and-services\\interfaces-and-services\\Services\\ContractService.cs",
               "RelativeDocumentMoniker": "interfaces-and-services\\Services\\ContractService.cs",
               "ToolTip": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\interfaces-and-services\\interfaces-and-services\\Services\\ContractService.cs",
               "RelativeToolTip": "interfaces-and-services\\Services\\ContractService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAD4vwsAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-16T14:42:10.612Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Installment.cs",
               "DocumentMoniker": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\interfaces-and-services\\interfaces-and-services\\Entities\\Installment.cs",
               "RelativeDocumentMoniker": "interfaces-and-services\\Entities\\Installment.cs",
               "ToolTip": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\interfaces-and-services\\interfaces-and-services\\Entities\\Installment.cs",
               "RelativeToolTip": "interfaces-and-services\\Entities\\Installment.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAApwA8AAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAIAwwBgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-16T13:57:43.058Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Contract.cs",
               "DocumentMoniker": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\interfaces-and-services\\interfaces-and-services\\Entities\\Contract.cs",
               "RelativeDocumentMoniker": "interfaces-and-services\\Entities\\Contract.cs",
               "ToolTip": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\interfaces-and-services\\interfaces-and-services\\Entities\\Contract.cs",
               "RelativeToolTip": "interfaces-and-services\\Entities\\Contract.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-16T13:57:25.123Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\interfaces-and-services\\interfaces-and-services\\Program.cs",
               "RelativeDocumentMoniker": "interfaces-and-services\\Program.cs",
               "ToolTip": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\interfaces-and-services\\interfaces-and-services\\Program.cs",
               "RelativeToolTip": "interfaces-and-services\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-16T13:56:20.281Z",
               "EditorCaption": ""
@@ -121,15 +121,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "interfaces-and-services",
+              "Title": "interfaces-and-services.csproj",
               "DocumentMoniker": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\interfaces-and-services\\interfaces-and-services\\interfaces-and-services.csproj",
               "RelativeDocumentMoniker": "interfaces-and-services\\interfaces-and-services.csproj",
               "ToolTip": "C:\\Users\\gggab\\Desktop\\C# e .NET\\udemy\\pratica-c-sharp\\interfaces-and-services\\interfaces-and-services\\interfaces-and-services.csproj",
               "RelativeToolTip": "interfaces-and-services\\interfaces-and-services.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-16T13:56:41.102Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-16T13:56:41.102Z"
             }
           ]
         }

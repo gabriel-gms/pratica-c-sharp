@@ -1,0 +1,15 @@
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\sets\sets\bin\Debug\net10.0\sets.exe
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\sets\sets\bin\Debug\net10.0\sets.deps.json
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\sets\sets\bin\Debug\net10.0\sets.runtimeconfig.json
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\sets\sets\bin\Debug\net10.0\sets.dll
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\sets\sets\bin\Debug\net10.0\sets.pdb
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\sets\sets\obj\Debug\net10.0\sets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\sets\sets\obj\Debug\net10.0\sets.AssemblyInfoInputs.cache
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\sets\sets\obj\Debug\net10.0\sets.AssemblyInfo.cs
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\sets\sets\obj\Debug\net10.0\sets.csproj.CoreCompileInputs.cache
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\sets\sets\obj\Debug\net10.0\sets.sourcelink.json
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\sets\sets\obj\Debug\net10.0\sets.dll
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\sets\sets\obj\Debug\net10.0\refint\sets.dll
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\sets\sets\obj\Debug\net10.0\sets.pdb
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\sets\sets\obj\Debug\net10.0\sets.genruntimeconfig.cache
+C:\Users\gggab\Desktop\C# e .NET\udemy\pratica-c-sharp\sets\sets\obj\Debug\net10.0\ref\sets.dll
